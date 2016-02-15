@@ -1,4 +1,4 @@
-package features.Calculator;
+package features.calculator;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;

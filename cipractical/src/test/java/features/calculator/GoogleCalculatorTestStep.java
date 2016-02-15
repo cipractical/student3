@@ -1,4 +1,4 @@
-package features.Calculator;
+package features.calculator;
 
 import calculator.GoogleCalculator;
 
